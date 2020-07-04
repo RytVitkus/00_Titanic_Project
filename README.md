@@ -1,11 +1,10 @@
 # Lab: Titanic EDA
 
-This week was all about Pandas and plotting. At this point you should be chomping at the bit to get your hands dirty on a real-world dataset.
+This week was all about Pandas and plotting. At this point I was chomping at the bit to get my hands dirty on a real-world dataset.
 
-For this lab, we're going to take a look at the Titanic manifest. We'll be exploring this data to see what we can learn regarding the survival rates of different groups of people.
+We're going to take a look at the Titanic manifest. We'll be exploring this data to see what we can learn regarding the survival rates of different groups of people.
 
-## Prework
-Fork and clone this repo. At the end of this lab, you'll submit a pull request using the `Titanic.ipynb` notebook to answer the questions below.
+Note: This Lab/Project was structured via General Assembly, so I've left the instructions as is since it involved me exploring Python
 
 ## Step 1: Reading the data
 
